@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-y: hidden;
+}
+
+a {
+  @apply text-orange-500;
+}
+
+pre[class*="language-"].pre-condensed {
+  @apply p-2;
+}
+
+pre[class*="language-"].pre-condensed-xl {
+  @apply p-2;
+  @apply text-sm;
+}
