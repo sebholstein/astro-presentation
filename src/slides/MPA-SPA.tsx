@@ -30,7 +30,7 @@ export const MPAAndSPA: Component = () => {
           <tr>
             <td class="p-4 w-2/4 align-top">
               <div class="my-6">
-                Keine full page loads - Client side routing/rendering
+                Keine full page loads - Client Side Routing/Rendering
               </div>
               <div class="my-6">Rendering des HTML im Client</div>
               <div class="my-6">
@@ -43,10 +43,11 @@ export const MPAAndSPA: Component = () => {
             </td>
             <td class="p-4 align-top">
               <div class="my-6">
-                Full page recreation für jede Navigation - Server side routing
+                Full page recreation für jede Navigation - Server Side Routing
               </div>
               <div class="my-6">
-                Full page creation schnell bei hauptsächlich statischen Inhalten
+                Full page recreation schnell bei hauptsächlich statischen
+                Inhalten
               </div>
               <div class="my-6">Rendering des HTML auf dem Server</div>
               <div class="my-6">Sinnvoll bei Content-heavy Anwendungen</div>

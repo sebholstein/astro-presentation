@@ -42,7 +42,7 @@ export const WeitereThemen: Component = () => {
           </ListEntry>
           <ListEntry>
             <a href="https://docs.astro.build/en/guides/cms/">
-              Anbindung von gängigen Headlesss CMS Systemen
+              Anbindung von gängigen Headless CMS Systemen
             </a>{" "}
             - 15 Guides aktuell verfügbar
           </ListEntry>
@@ -54,7 +54,7 @@ export const WeitereThemen: Component = () => {
           </ListEntry>
           <ListEntry>
             <a href="https://github.com/withastro/compiler">Astro Compiler</a> -
-            Geschrieben in Go und ausgeliefert in WASM.
+            Geschrieben in Go und ausgeliefert in WASM
           </ListEntry>
           <ListEntry>
             IDE Support:{" "}

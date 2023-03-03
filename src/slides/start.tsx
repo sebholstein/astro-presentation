@@ -19,7 +19,7 @@ export function StartSlide() {
           <p class=" text-gray-100 leading-7 text-4xl font-bold">
             Sebastian Holstein
           </p>
-          <p class="mt-6 text-slate-200">27.02.2023</p>
+          <p class="mt-6 text-slate-200">03.03.2023</p>
         </div>
       </div>
       <video
